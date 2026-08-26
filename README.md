@@ -5,6 +5,10 @@ I work across frontend, backend, and creative, and I’m primarily based in Niig
   
 You can see about my detail at [https://iqbqioza.com](https://iqbqioza.com).
 
+# Commit GPG Key Fingerprint
+
+<pre>3C8D FA2D ADDD D221 3D04  9B50 7FDA 9B2A AF0E 2C0F</pre>
+
 # My Projects
 
 ## nostrd
